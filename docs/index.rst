@@ -10,7 +10,8 @@ Welcome to iot's documentation!
    :maxdepth: 2
    :caption: 开始前必读
 
-   changelog
+   intro
+   changelog
    developerspecification
    permissions
 
