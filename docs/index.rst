@@ -33,11 +33,3 @@ Welcome to iot's documentation!
    compatibility
    tips
    contribution
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
