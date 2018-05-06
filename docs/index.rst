@@ -8,23 +8,31 @@ Welcome to iot's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 使用说明
+   :caption: 开始前必读
 
-   install
-   guides/index
-   examples/index
-   reference/index
+   changelog
+   developerspecification
+   permissions
+
+   beforestart
+   startdev
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 开放能力
+
+   card/index
+   card/rechargecard
+   user/index
 
 .. toctree::
    :maxdepth: 2
    :caption: 其他
 
+   codes
    compatibility
-   contribution
    tips
-   upgrade
-   comparison
-   license
+   contribution
 
 
 Indices and tables
